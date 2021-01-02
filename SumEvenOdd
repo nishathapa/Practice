@@ -1,0 +1,8 @@
+let num = 10;
+let SumEvenOdd = function(num) 
+    for( let i = 0; i < num; i++){
+        let SumEven = 0;
+        if( i  
+         )
+    }
+}
