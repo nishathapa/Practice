@@ -6,4 +6,3 @@ let frontBack = function(word) {
     return word
 }
 console.log(frontBack(word));
-
